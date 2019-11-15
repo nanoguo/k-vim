@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 "==========================================
 " Author:  wklken
 " Version: 9.1
